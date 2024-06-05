@@ -334,7 +334,7 @@ transform: scaleX(3);
   
   position: relative;
   overflow: hidden;
-  background-image: url("important-img/pxfuel.jpg");
+  background-image:url("important-img/pxfuel.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -375,7 +375,7 @@ font-family: 'Outfit', sans-serif;
   color: #FFFFFF;
   box-sizing: border-box;
   
-  background-image: url("/Real-madrid-squad-main/important-img/pxfuel.jpg");
+  background-image: url("important-img/pxfuel.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
