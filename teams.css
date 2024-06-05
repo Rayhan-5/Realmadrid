@@ -98,7 +98,7 @@ ul{
   transform: translateX(100%);
   transition: 0.3s transform linear;
   flex-direction: column ;
-  background-image: url("cups/14.png");
+  background-image: url("Cups/14.png");
   background-size: cover;
  background-position: center;
  background-repeat: no-repeat;
